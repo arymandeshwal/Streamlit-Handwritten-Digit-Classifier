@@ -132,3 +132,4 @@ dmypy.json
 # Useless files and folders
 model/
 Neural_network_hand_writing_model.ipynb
+history.csv
